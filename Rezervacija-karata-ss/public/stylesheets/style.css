@@ -1,0 +1,162 @@
+body {
+  padding: 50px;
+  font: 12px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #a73232;
+}
+
+h1{
+  
+  font-family: 'Noto Serif', serif;
+  font-size:50px;
+  background-color: #cccccc;
+  color: black;
+}
+
+th{
+   font-family: 'Noto Serif', serif;
+   font-size:25px;
+   background-color: #cccccc;
+   color: black;
+
+}
+td{
+   font-family: 'Noto Serif', serif;
+   font-size:25px;
+   background-color: #cccccc;
+   color: black;
+
+}
+
+h1{
+  
+  font-family: 'Gelasio', serif;
+  font: large;
+  color:white;
+  text-align: center;
+  font-size: 123px;
+  margin-top: 90px;
+  background-color: #a73232;
+}
+
+
+a {
+  color: #00B7FF;
+}
+
+.login-reg{
+  margin-left: 0%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.reg{
+  width: 25%;
+  height: 150px;
+  font-size: 40px;
+  padding-top: 40px;
+  background-color: white;
+  color: #a73232;
+  border: none;
+}
+.reg:hover{
+  background-color: black;
+}
+.log:hover{
+  background-color: black;
+}
+.reg:focus{
+  background-color: black!important;
+  border: none!important;
+}
+.log:focus{
+  background-color: black!important;
+  border: none!important;
+}
+
+.log{
+  width: 25%;
+  height: 150px;
+  font-size: 40px;
+  padding-top: 40px;
+  background-color: white;
+  color: #a73232;
+  border: none;
+}
+#slika{
+  margin-bottom: 40px;
+  width: 130px;
+  height: 130px;
+}
+.email2{
+  background-color: initial;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid white 3px;
+  border-radius: 0;
+  width: 500px;
+}
+.email2:focus{
+  background-color:#a73232 ;
+  border-bottom: solid white 3px;
+}
+
+
+.reg2 label{
+  font-size: 30px;
+  color: white;
+}
+
+.reg2{
+  margin-left: 40%;
+  margin-top: 10%;
+}
+
+.dugme{
+  width: 150px;
+  height: 70px;
+  margin-left: 14%;
+  font-size: 20px;
+  margin-top: 25px;
+  background-color: black;
+  border: none; 
+}
+
+.dugme:hover{
+  background-color: white;
+  color:  #a73232 ;
+}
+
+#tabla{
+  background-color: #a73232!important ;
+  color: white;
+  width: 1200px;
+  margin-left: 18%;
+  margin-top: 40px;
+}
+tr{
+  background-color: #a73232!important;
+}
+td{
+  background-color: #a73232!important;
+  color: white;
+}
+th{
+  background-color: #a73232!important;
+  color: white;
+}
+
+.dugme2{
+  width: 120px;
+  height: 40px;
+  margin-left: 0%;
+  font-size: 20px;
+  margin-top: 15px;
+  background-color: black;
+  border: none;
+}
+
+.dugme2:hover{
+  background-color: white;
+  color:  #a73232 ;
+}
